@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagall-common/proprietary/lib/libarcsoft_magicshot_eraser.so:system/lib/libarcsoft_magicshot_eraser.so \
     vendor/samsung/chagall-common/proprietary/lib/libarcsoft_magicshot_picmotion.so:system/lib/libarcsoft_magicshot_picmotion.so \
     vendor/samsung/chagall-common/proprietary/lib/libarcsoft_night_shot_ex.so:system/lib/libarcsoft_night_shot_ex.so \
+    vendor/samsung/chagall-common/proprietary/lib/libarcsoft_nighthawk.so:system/lib/libarcsoft_nighthawk.so \
     vendor/samsung/chagall-common/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
     vendor/samsung/chagall-common/proprietary/lib/libarcsoft_picaction.so:system/lib/libarcsoft_picaction.so \
     vendor/samsung/chagall-common/proprietary/lib/libarcsoft_picmotion.so:system/lib/libarcsoft_picmotion.so \
