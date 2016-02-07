@@ -57,7 +57,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/chagall-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
     vendor/samsung/chagall-common/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/chagall-common/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
-    vendor/samsung/chagall-common/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
     vendor/samsung/chagall-common/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/chagall-common/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/samsung/chagall-common/proprietary/etc/gps.xml:system/etc/gps.xml \
