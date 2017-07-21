@@ -21,8 +21,7 @@ PRODUCT_COPY_FILES += \
 # GPS
 PRODUCT_COPY_FILES += \
     vendor/samsung/chagallwifi/proprietary/bin/gpsd:system/bin/gpsd \
-    vendor/samsung/chagallwifi/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/samsung/chagallwifi/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so
+    vendor/samsung/chagallwifi/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so
 
 # Sensors
 PRODUCT_COPY_FILES += \
