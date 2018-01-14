@@ -97,3 +97,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/exynos5420-common/proprietary/etc/permissions/com.samsung.device.xml:system/etc/permissions/com.samsung.device.xml \
     vendor/samsung/exynos5420-common/proprietary/framework/com.samsung.device.jar:system/framework/com.samsung.device.jar
+
+# Bluetooth APTX blobs
+PRODUCT_COPY_FILES += \
+    vendor/samsung/exynos5420-common/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/samsung/exynos5420-common/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/samsung/exynos5420-common/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so
